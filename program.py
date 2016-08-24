@@ -1,6 +1,7 @@
 # TODO: feature - download music based on style & date | quantity
 # TODO: construct more logical download tree with meta data
 # TODO: open user's file explorer after download
+# TODO: setup script
 
 import os
 import re
