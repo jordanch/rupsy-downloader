@@ -2,6 +2,7 @@
 # TODO: construct more logical download tree with meta data
 # TODO: open user's file explorer after download
 # TODO: setup script
+# TODO: add license and responsibilities
 
 import os
 import re
